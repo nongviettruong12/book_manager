@@ -1,0 +1,14 @@
+{
+  "books": [
+    {
+      "_id":1,
+      "name": "sach 1",
+      "image":"image 1",
+      "description": "sach abc",
+      "author": "tac gia 1",
+      "price":"2000000",
+      "genres":"comedy",
+      "rate":"4"
+    }
+  ]
+}
